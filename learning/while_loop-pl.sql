@@ -35,7 +35,6 @@ a:= a+1;
     -- use to end the loop
 end;
 -- it means }
-
-
+/
 
 

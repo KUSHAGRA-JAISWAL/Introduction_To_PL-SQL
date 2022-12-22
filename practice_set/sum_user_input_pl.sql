@@ -1,11 +1,11 @@
 /**
- * @file sum_pl.sql
+ * @file sum_user_input_pl.sql
  * @author KUSHAGRA JAISWAL 
- * @date 2022-12-02
+ * @date 2022-12-23
  * @copyright Copyright (c) 2022
  */
 
- /* Program to understand the concept of addition of two numbers in PL-SQL. */
+ /* Write a PL/SQL code to accept a number and find sum of the digits. */
 
  declare
 --  it is use for declearing the variable

@@ -58,3 +58,17 @@ This repo has divided into one main categories that covers:-<br>
 |5. **[while_loop_pl.sql:](learning/while_loop-pl.sql)**| Program to understand the concept of While loop in PL-SQL.|
 <br>
 
+# Practice Section <img src=" "  height=45px>
+
+| Programs                                           |Discription                             |
+|----------------------------------------------------|----------------------------------------|
+|1. **[evennum_1-100_pl.sql:](practice_set/evennum_1-100_pl.sql)**| Write a PL/SQL code to print even numbers from 1 to 100. |
+|2. **[oddnum_1-100_pl.sql:](practice_set/oddnum_1-100_pl.sql)**| Write a PL/SQL code to print odd numbers from 1 to 100. |
+|3. **[sumof_1-100_pl.sql:](practice_set/sumof_1-100_pl.sql)**| Write a PL/SQL code to find sum of numbers from 1 to 100. |
+|4. **[evensumof_1-100_pl.sql:](practice_set/evensumof_1-100_pl.sql)**| Write a PL/SQL code to find sum of even numbers from 1 to 100. |
+|5. **[oddsumof_1-100_pl.sql:](practice_set/oddsumof_1-100_pl.sql)**| Write a PL/SQL code to find sum of odd numbers from 1 to 100. |
+|6. **[sum_user_input_pl.sql:](practice_set/sum_user_input_pl.sql)**| Write a PL/SQL code to accept a number and find sum of the digits. |
+|7. **[reverse_string_pl.sql:](practice_set/reverse_string_pl.sql)**| Write a PL/SQL code to accept a string and print it in reverse order. |
+|8. **[find_greater_pl.sql:](practice_set/find_greater_pl.sql)**| Write a PL/SQL code to accept the value of A,B & C display which is greater. |
+|9. **[primenum_1-50_pl.sql:](practice_set/primenum_1-50_pl.sql)**| Write a PL/SQL code to print the prime numbers between 1 and 50. |
+<br>
