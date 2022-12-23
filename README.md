@@ -67,4 +67,4 @@ This repo has divided into one main categories that covers:-<br>
 |9. **[primenum_1-50_pl.sql:](practice_set/primenum_1-50_pl.sql)**| Write a PL/SQL code to print the prime numbers between 1 and 50. |
 |10. **[grade_on_marks_pl.sql:](practice_set/grade_on_marks_pl.sql)**| Write a PL/SQL code to print grade according to the marks enter by the user. |
 |11. **[sum_average_n_pl.sql:](practice_set/sum_average_n_pl.sql)**| Write a PL/SQL code to print sum and average on n number. |
-<br>
+<br><br>
