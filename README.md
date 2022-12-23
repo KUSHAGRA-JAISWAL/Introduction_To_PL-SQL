@@ -1,6 +1,6 @@
  <h1><b><i>Introduction To PL-SQL </i></b><img src="https://i.imgur.com/B4rKfNl.png" height=40px></h1> 
  <br>
-<img src="https://i.imgur.com/DdLNUQb.gif" > 
+<img src="https://i.imgur.com/eaufU1Y.gif" > 
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 <br><b>
 PL/SQL is a block of codes that used to write the entire program blocks/ procedure/ function, etc. It is declarative, that defines what needs to be done, rather than how things need to be done. PL/SQL is procedural that defines how the things needs to be done. Execute as a single statement.<br><br>
