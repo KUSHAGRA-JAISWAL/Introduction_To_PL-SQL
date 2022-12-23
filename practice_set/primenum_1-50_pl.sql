@@ -12,8 +12,13 @@
 --  it is use for declearing the variable
 
     c number;
+    --  declearing variables type of number
+
     result clob := '';
---  declearing variables type of number
+      --  declearing variables type of clob
+      -- A CLOB (character large object) value can be up to 2,147,483,647 characters long. 
+      -- A CLOB is used to store unicode character-based data, such as large documents in any character set.
+
 
 begin
 -- it means {

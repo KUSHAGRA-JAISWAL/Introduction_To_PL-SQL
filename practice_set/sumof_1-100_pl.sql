@@ -1,5 +1,5 @@
 /**
- * @file oddnum_1-100_pl.sql
+ * @file sumof_1-100_pl.sql
  * @author KUSHAGRA JAISWAL 
  * @date 2022-12-23
  * @copyright Copyright (c) 2022

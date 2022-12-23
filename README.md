@@ -1,6 +1,6 @@
  <h1><b><i>Introduction To PL-SQL </i></b><img src="https://i.imgur.com/B4rKfNl.png" height=40px></h1> 
  <br>
-<img src="https://i.imgur.com/f0RMeMg.png" > 
+<img src="https://i.imgur.com/DdLNUQb.gif" > 
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 <br><b>
 PL/SQL is a block of codes that used to write the entire program blocks/ procedure/ function, etc. It is declarative, that defines what needs to be done, rather than how things need to be done. PL/SQL is procedural that defines how the things needs to be done. Execute as a single statement.<br><br>
@@ -27,21 +27,15 @@ This repo has divided into one main categories that covers:-<br>
 </b>
 <br>
 
-<!-- # Compile & Run C++ programs <img src="https://i.imgur.com/Csp0I6C.gifg" height=40px>
+# ⭐Run PL/SQL programs <img src="https://i.imgur.com/ZTeqcGO.gif" height=35px>
 
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 
-## ⭐Compilation <img src="https://i.imgur.com/bk962Bi.gif" height=30px>
+ <img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( set serveroutput on; ):&nbsp;&nbsp;&nbsp;</b> Basically the use of SET SERVEROUTPUT is to display the query answer in SQL *PLUS interface... When you use the DBMS_OUTPUT. PUT_LINE procedure, the procedure will write the passing string into the Oracle buffer.<br>
 
- <img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( g++ program_name.cpp ):&nbsp;&nbsp;&nbsp;</b> This will compile your program at the same location with the name a.out / a.exe .<br>
+ <img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( / ):&nbsp;&nbsp;&nbsp;<b> Don't Forget to put the forward slash at the end of your code. <br>
 
- <img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( g++ program_name.cpp -o xyz ):&nbsp;&nbsp;&nbsp;<b> This will compile your program at the same place but if you use -0 it will give a custom name to your compiled program, in this case it is xyz. <br>
-
- <img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( g++ program_name.cpp -o ../../out/xyz ):&nbsp;&nbsp;&nbsp;<b> This will compile your program at the location where you want to save with the name you want, in my case it is xyz.<br>
-
- ## ⭐Run<img src="https://i.imgur.com/ZTeqcGO.gif" height=35px>
-
-<img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( program_name.exe ):&nbsp;&nbsp;&nbsp;<b> Writting this at the location where your program is compiled, it will run your C++ program. -->
+ <img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp; Copy the path of your PL/SQL Program and paste the path with (@) sign to run your program in terminal.<br>
 
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 
@@ -58,7 +52,7 @@ This repo has divided into one main categories that covers:-<br>
 |5. **[while_loop_pl.sql:](learning/while_loop-pl.sql)**| Program to understand the concept of While loop in PL-SQL.|
 <br>
 
-# Practice Section <img src=" "  height=45px>
+# Practice Section <img src="https://i.imgur.com/DpLBbnp.gif"  height=45px>
 
 | Programs                                           |Discription                             |
 |----------------------------------------------------|----------------------------------------|
@@ -71,4 +65,6 @@ This repo has divided into one main categories that covers:-<br>
 |7. **[reverse_string_pl.sql:](practice_set/reverse_string_pl.sql)**| Write a PL/SQL code to accept a string and print it in reverse order. |
 |8. **[find_greater_pl.sql:](practice_set/find_greater_pl.sql)**| Write a PL/SQL code to accept the value of A,B & C display which is greater. |
 |9. **[primenum_1-50_pl.sql:](practice_set/primenum_1-50_pl.sql)**| Write a PL/SQL code to print the prime numbers between 1 and 50. |
+|10. **[grade_on_marks_pl.sql:](practice_set/grade_on_marks_pl.sql)**| Write a PL/SQL code to print grade according to the marks enter by the user. |
+|11. **[sum_average_n_pl.sql:](practice_set/sum_average_n_pl.sql)**| Write a PL/SQL code to print sum and average on n number. |
 <br>
